@@ -6,4 +6,5 @@
     },
 },
 
-//criar o arquivo coc-settings.json no mesmo diretório do init.vim
+//criar o arquivo coc-settings.json no mesmo diretório do init.vim, caso queira o coc para python, basta digitar :CocInstall coc-pyright no modo de command line no neovim.
+
